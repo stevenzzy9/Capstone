@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StatusManager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- 登陆界面 -->
+    <string name="google_label_username">Google Work Account</string>
+    <string name="google_label_password">Google Work Account Password</string>
+    <string name="google_label_home_username">Google Home Account</string>
+    <string name="google_label_home_password">Google Home Account Password</string>
+    <string name="login_label_username">Account</string>
+    <string name="login_label_password">Password</string>
+    <string name="login_label_ip">ip </string>
+    <string name="login_label_signin">Login</string>
+    <string name="login_label_register">register</string>
+    <string name="login_status_logging_in">Loading</string>
+    <string name="login_username_hint">Enter Your Account</string>
+    <string name="login_userpassword_hint">Enter Your Password</string>
+    <string name="login_google_username_hint">Enter Your Google Account</string>
+    <string name="login_google_userpassword_hint">Enter Your Google Password</string>
+    <string name="login_ip_hint">Enter Your server IP</string>
+    <string name="login_register_link">No Account? <a href="#">Register</a></string>
+    <string name="loading">Loading</string>
+    <string name="title_activity_main_activity111">MainActivity111</string>
+    <string name="title_activity_account">Account</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

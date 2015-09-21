@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content_frame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        android:background="@drawable/global_top_background" >
+
+        <Button
+            android:id="@+id/email"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="8dip"
+            android:background="@drawable/title_home_button" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="20dip"
+            android:layout_marginRight="20dip"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/topText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dip"
+                android:text="AT WORK"
+                android:textColor="#ffffff"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/setlocation"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/button_title_addfriends" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/actionlistswipelistview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:listSelector="#00000000" >
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RestaurantList><Restaurant>
+    <RestaurantName>Ocean Park Omelette Parlor</RestaurantName>
+    <RestaurantID>1</RestaurantID>
+    <RestaurantType>italian food</RestaurantType>
+    <HitTime>456</HitTime>
+    <Location>117.4768534,39.4574545</Location>
+</Restaurant>
+<Restaurant>
+    <RestaurantName>Charlie Trotter's</RestaurantName>
+    <RestaurantID>2</RestaurantID>
+    <RestaurantType>italian food</RestaurantType>
+    <HitTime>89</HitTime>
+    <Location>117.4768534,39.4574545</Location>
+</Restaurant>
+<Restaurant>
+    <RestaurantName>French Laundry Yountville</RestaurantName>
+    <RestaurantID>3</RestaurantID>
+    <RestaurantType>italian food</RestaurantType>
+    <HitTime>67</HitTime>
+    <Location>117.4768534,39.4574545</Location>
+</Restaurant>
+<Restaurant>
+    <RestaurantName>Sprinkles</RestaurantName>
+    <RestaurantID>4</RestaurantID>
+    <RestaurantType>chinese food</RestaurantType>
+    <HitTime>1</HitTime>
+    <Location>117.4768534,39.4574545</Location>
+</Restaurant>
+<Restaurant>
+    <RestaurantName>Tavern on the Green</RestaurantName>
+    <RestaurantID>5</RestaurantID>
+    <RestaurantType>chinese food</RestaurantType>
+    <HitTime>1</HitTime>
+    <Location>117.4768534,39.4574545</Location>
+</Restaurant>
+<Restaurant>
+    <RestaurantName>Rainforest Restaurant</RestaurantName>
+    <RestaurantID>1</RestaurantID>
+    <RestaurantType>American food</RestaurantType>
+    <HitTime>456</HitTime>
+    <Location>117.4768534,39.4574545</Location>
+</Restaurant>
+</RestaurantList>

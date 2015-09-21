@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MovieList><Movie>
+    <MovieName>Despicable Me</MovieName>
+    <MovieID>1</MovieID>
+    <MovieType>despicableme</MovieType>
+    <MovieTime>2013-06-07 11:25</MovieTime>
+    <HitTime>456</HitTime>
+    <MoviePositionLon>117.4768534</MoviePositionLon>
+    <MoviePositionLat>39.4574545</MoviePositionLat>
+</Movie>
+<Movie>
+    <MovieName>Ender`s Game</MovieName>
+    <MovieID>2</MovieID>
+    <MovieType>endersgame</MovieType>
+    <MovieTime>2013-08-07 12:25</MovieTime>
+    <HitTime>89</HitTime>
+    <MoviePositionLon>117.4768534</MoviePositionLon>
+    <MoviePositionLat>39.4574545</MoviePositionLat>
+</Movie>
+<Movie>
+    <MovieName>As The Light Goes Out</MovieName>
+    <MovieID>3</MovieID>
+    <MovieType>asthelightgoesout</MovieType>
+    <MovieTime>2013-08-07 12:25</MovieTime>
+    <HitTime>67</HitTime>
+    <MoviePositionLon>117.4768534</MoviePositionLon>
+    <MoviePositionLat>39.4574545</MoviePositionLat>
+</Movie>
+<Movie>
+    <MovieName>Metro</MovieName>
+    <MovieID>4</MovieID>
+    <MovieType>metro</MovieType>
+    <MovieTime>2013-08-07 11:25</MovieTime>
+    <HitTime>1</HitTime>
+    <MoviePositionLon>117.4768534</MoviePositionLon>
+    <MoviePositionLat>39.4574545</MoviePositionLat>
+</Movie>
+<Movie>
+    <MovieName>The Mortal Instruments: City of Bones</MovieName>
+    <MovieID>5</MovieID>
+    <MovieType>mortal</MovieType>
+    <MovieTime>2013-08-08 11:25</MovieTime>
+    <HitTime>1</HitTime>
+    <MoviePositionLon>117.4768534</MoviePositionLon>
+    <MoviePositionLat>39.4574545</MoviePositionLat>
+</Movie>
+<Movie>
+    <MovieName>Olympus Has Fallen</MovieName>
+    <MovieID>1</MovieID>
+    <MovieType>olympushasfallen</MovieType>
+    <MovieTime>2013-06-07 11:25</MovieTime>
+    <HitTime>456</HitTime>
+    <MoviePositionLon>117.4768534</MoviePositionLon>
+    <MoviePositionLat>39.4574545</MoviePositionLat>
+</Movie>
+<Movie>
+    <MovieName>The Frog Kingdom</MovieName>
+    <MovieID>2</MovieID>
+    <MovieType>thefrogkingdom</MovieType>
+    <MovieTime>2013-08-07 12:25</MovieTime>
+    <HitTime>89</HitTime>
+    <MoviePositionLon>117.4768534</MoviePositionLon>
+    <MoviePositionLat>39.4574545</MoviePositionLat>
+</Movie>
+</MovieList>

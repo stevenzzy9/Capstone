@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/login_div"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dip"
+        android:background="@drawable/background_login_div_bg"
+        android:padding="15dip" >
+
+        <TextView
+            android:id="@+id/google_account_input"
+            style="@style/normalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:text="@string/google_label_username"
+            android:textColor="@color/whitesmoke" />
+
+        <EditText
+            android:id="@+id/workacc"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/google_account_input"
+            android:hint="@string/login_google_username_hint"
+            android:singleLine="true" >
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:id="@+id/google_password_input"
+            style="@style/normalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/workacc"
+            android:layout_marginTop="3dp"
+            android:text="@string/google_label_password"
+            android:textColor="@color/whitesmoke" />
+
+        <EditText
+            android:id="@+id/workpwd"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/google_password_input"
+            android:hint="@string/login_google_userpassword_hint"
+            android:inputType="textPassword"
+            android:password="true"
+            android:singleLine="true" />
+
+        <TextView
+            android:id="@+id/google_account_home_input"
+            style="@style/normalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/workpwd"
+            android:layout_marginTop="3dp"
+            android:text="@string/google_label_home_username"
+            android:textColor="@color/whitesmoke" />
+
+        <EditText
+            android:id="@+id/homeacc"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/google_account_home_input"
+            android:hint="@string/login_google_username_hint"
+            android:singleLine="true" />
+
+        <TextView
+            android:id="@+id/google__password_home_input"
+            style="@style/normalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/homeacc"
+            android:layout_marginTop="3dp"
+            android:text="@string/google_label_home_password"
+            android:textColor="@color/whitesmoke" />
+
+        <EditText
+            android:id="@+id/homepwd"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/google__password_home_input"
+            android:hint="@string/login_google_userpassword_hint"
+            android:inputType="textPassword"
+            android:password="true"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/update_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/homepwd"
+            android:layout_below="@id/homepwd"
+            android:background="@drawable/blue_button"
+            android:text="update" />
+    </RelativeLayout>
+>
+
+</LinearLayout>

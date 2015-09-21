@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionList><Action>
+    <ActionName>Z60列车</ActionName>
+    <ActionID>1</ActionID>
+    <ActionType>1</ActionType>
+    <ActionTime>2013-06-07 11:25</ActionTime>
+    <HitTime>456</HitTime>
+    <ActionPositionLon>117.4768534</ActionPositionLon>
+    <ActionPositionLat>39.4574545</ActionPositionLat>
+</Action>
+<Action>
+    <ActionName>南方航空CZ3568</ActionName>
+    <ActionID>2</ActionID>
+    <ActionType>2</ActionType>
+    <ActionTime>2013-08-07 12:25</ActionTime>
+    <HitTime>89</HitTime>
+    <ActionPositionLon>117.4768534</ActionPositionLon>
+    <ActionPositionLat>39.4574545</ActionPositionLat>
+</Action>
+<Action>
+    <ActionName>中国科学院学术报告会</ActionName>
+    <ActionID>3</ActionID>
+    <ActionType>5</ActionType>
+    <ActionTime>2013-08-07 12:25</ActionTime>
+    <HitTime>67</HitTime>
+    <ActionPositionLon>117.4768534</ActionPositionLon>
+    <ActionPositionLat>39.4574545</ActionPositionLat>
+</Action></ActionList>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LocationList>
+<Location>
+<userid>1</userid>
+<location>25.46162337963434,119.025178514421</location>
+<locationtype>1</locationtype>
+</Location>
+<Location>
+<userid>2</userid>
+<location>0.0,0.0</location>
+<locationtype>0</locationtype>
+</Location>
+<Location>
+<userid>1</userid>
+<location>27.019390230357477,129.0822821483016</location>
+<locationtype>0</locationtype>
+</Location>
+</LocationList>

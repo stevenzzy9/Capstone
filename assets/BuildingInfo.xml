@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildingList><Building>
+    <BuildingName>Z60列车</BuildingName>
+    <BuildingID>1</BuildingID>
+    <BuildingMinFloor>1</BuildingMinFloor>
+    <BuildingMaxFloor>3</BuildingMaxFloor>
+    <BuildingTilePrifex>indoormap/haitaichanyeyuan/htcyy</BuildingTilePrifex>
+    <BuidlingDescription><DescriptionContent>海泰信息广场非常不错</DescriptionContent></BuidlingDescription>
+</Building>
+<Building>
+    <BuildingName>南方航空CZ3568</BuildingName>
+    <BuildingID>2</BuildingID>
+    <BuildingMinFloor>1</BuildingMinFloor>
+    <BuildingMaxFloor>3</BuildingMaxFloor>
+    <BuildingTilePrifex>indoormap/bofu/bofu</BuildingTilePrifex>
+    <BuidlingDescription><DescriptionContent>博福易福生非常不错</DescriptionContent></BuidlingDescription>
+</Building>
+<Building>
+    	<BuildingName>中国科学院学术报告会</BuildingName>
+    	<BuildingID>3</BuildingID>
+    	<BuildingMinFloor>1</BuildingMinFloor>
+    	<BuildingMaxFloor>5</BuildingMaxFloor>
+    	<BuildingTilePrifex>indoormap/tjglxxzx/tjglxxzx</BuildingTilePrifex>
+   	 	<BuidlingDescription><DescriptionContent>天津公路信息中心非常不错</DescriptionContent></BuidlingDescription>
+</Building>
+<Building>
+    	<BuildingName>中科院球友聚会</BuildingName>
+    	<BuildingID>4</BuildingID>
+    	<BuildingMinFloor>1</BuildingMinFloor>
+    	<BuildingMaxFloor>5</BuildingMaxFloor>
+    	<BuildingTilePrifex>indoormap/xjy1/xjy1-</BuildingTilePrifex>
+   	 	<BuidlingDescription><DescriptionContent>新纪元非常不错</DescriptionContent></BuidlingDescription>
+</Building>
+<Building>
+    	<BuildingName>北京到厦门大巴</BuildingName>
+    	<BuildingID>5</BuildingID>
+    	<BuildingMinFloor>1</BuildingMinFloor>
+    	<BuildingMaxFloor>7</BuildingMaxFloor>
+    	<BuildingTilePrifex>indoormap/tyjz/tyjz</BuildingTilePrifex>
+   	 	<BuidlingDescription><DescriptionContent>新纪元非常不错</DescriptionContent></BuidlingDescription>
+</Building></BuildingList>

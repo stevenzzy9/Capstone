@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgoundwhite"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        android:background="@drawable/global_top_background" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="20dip"
+            android:layout_marginRight="20dip"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/emailstatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dip"
+                android:text="From HOME Email"
+                android:textColor="#ffffff"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/sendmail"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/button_title_addfriends" />
+    </LinearLayout>
+    
+      <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="To"
+         android:textColor="@color/black"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/emailTo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:textColor="@color/black"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Subject"
+        android:textColor="@color/black"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/emailTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:textColor="@color/black"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+  
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+         android:textColor="@color/black"
+        android:text="Content"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+  
+
+    <EditText
+        android:id="@+id/emailContent"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:textColor="@color/black" />
+
+</LinearLayout>
